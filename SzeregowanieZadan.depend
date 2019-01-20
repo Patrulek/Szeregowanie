@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1421850236 source:d:\patryk\infa\projekty\c++\szeregowaniezadan\generator.cpp
+	"generator.h"
+	"parametry.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1421864441 d:\patryk\infa\projekty\c++\szeregowaniezadan\generator.h
+	<string>
+
+1421868968 source:d:\patryk\infa\projekty\c++\szeregowaniezadan\main.cpp
+	"generator.h"
+	"algorytm.h"
+	"parametry.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1421865795 source:d:\patryk\infa\projekty\c++\szeregowaniezadan\algorytm.cpp
+	"algorytm.h"
+	"parametry.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+
+1421787642 d:\patryk\infa\projekty\c++\szeregowaniezadan\algorytm.h
+	<vector>
+	<string>
+	<iostream>
+
+1421888918 d:\patryk\infa\projekty\c++\szeregowaniezadan\parametry.h
+	<string>
+
+1421772107 source:d:\patryk\infa\projekty\c++\szeregowaniezadan\parametry.cpp
+	"parametry.h"
+	<cstdlib>
+

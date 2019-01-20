@@ -1,0 +1,18 @@
+#ifndef GENERATOR_H_INCLUDED
+#define GENERATOR_H_INCLUDED
+
+#define NUMER_INSTANCJI 666
+#define MAKSYMALNY_CZAS_ROZPOCZECIA_PRZERWY 0.45 // 0.45 maksymalnego czasu wszystkich operacji
+#define LICZBA_ZADAN 200
+#define LICZBA_PRZERW_KONSERWUJACYCH 0.35 // z liczby zadañ
+#define MINIMALNY_CZAS_OPERACJI 20
+#define MAKSYMALNY_CZAS_OPERACJI 100
+#define MINIMALNY_CZAS_PRZERWY 35
+#define MAKSYMALNY_CZAS_PRZERWY 75
+
+#include <string>
+
+
+void generujInstancje();
+
+#endif // GENERATOR_H_INCLUDED
